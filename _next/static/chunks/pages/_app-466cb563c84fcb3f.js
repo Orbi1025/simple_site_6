@@ -21239,7 +21239,7 @@
                         }),
                         (0, We.jsx)("a", {
                           className: "text-[#3ed44f] text-4xl",
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xd576d31e1a849137025218a9578ceff8cb41dcc6",
+                          href: "https://pancakeswap.finance/swap?outputCurrency=0x736e058f340273ddef2e7f7f37d483a505934444",
                           target: "_blank",
                           children: "Buy Now",
                         }),

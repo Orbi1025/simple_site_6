@@ -745,7 +745,7 @@
                       href: "https://x.com/ethereumJoseph/status/1932587298786545846",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
-                        src: "/aaa.jpg",
+                        src: "/aaa.png",
                       }),
                     }),
                       
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0xd576d31e1a849137025218a9578ceff8cb41dcc6"
+                              "0x736e058f340273ddef2e7f7f37d483a505934444"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           },
                           children:
-                            "CA: 0xd576d31e1a849137025218a9578ceff8cb41dcc6",
+                            "CA: 0x736e058f340273ddef2e7f7f37d483a505934444",
                         }),
                       }),
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/CASE_joseph",
+                            href: "https://t.me/Justice_KitKat",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/ethereumJoseph/status/1932587672117391822",
+                            href: "https://x.com/Justice_KitKat",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/ethereum/0xd576d31e1a849137025218a9578ceff8cb41dcc6",
+                            href: "https://dexscreener.com/bsc/0x736e058f340273ddef2e7f7f37d483a505934444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xd576d31e1a849137025218a9578ceff8cb41dcc6",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x736e058f340273ddef2e7f7f37d483a505934444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "CASE ",
+                        children: "Justice For KitKat ",
                       }),
                     ],
                   }),
