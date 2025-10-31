@@ -742,7 +742,7 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://missionlocal.org/2025/10/kitkat-mission-liquor-store-mascot-and-16th-st-ambassador-killed-on-monday/",
+                      href: "https://x.com/BNBCHAIN/status/1983942118126068220",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
                         src: "/aaa.png",
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0x736e058f340273ddef2e7f7f37d483a505934444"
+                              "0x096d799efba5821e0dd911608bd3310712384444"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           },
                           children:
-                            "CA: 0x736e058f340273ddef2e7f7f37d483a505934444",
+                            "CA: 0x096d799efba5821e0dd911608bd3310712384444",
                         }),
                       }),
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/Justice_KitKat",
+                            href: "https://t.me/BAI_bsc",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/Justice_KitKat",
+                            href: "https://x.com/BAI_bsc",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0x736e058f340273ddef2e7f7f37d483a505934444",
+                            href: "https://dexscreener.com/bsc/0x096d799efba5821e0dd911608bd3310712384444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x736e058f340273ddef2e7f7f37d483a505934444",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x096d799efba5821e0dd911608bd3310712384444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
