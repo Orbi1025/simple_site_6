@@ -742,10 +742,10 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://x.com/BNBCHAIN/status/1983942118126068220",
+                      href: "https://www.instagram.com/p/DQfYH6YkiliwET3zEzgt25SZT6bJfqfnTM54nI0/",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
-                        src: "/aaa.png",
+                        src: "/aaa.jpg",
                       }),
                     }),
                       
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0x096d799efba5821e0dd911608bd3310712384444"
+                              "0x4b3fe0c9680700a0e31df88b4f754c5ac4ad4444"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,7 +764,7 @@
                               });
                           },
                           children:
-                            "CA: 0x096d799efba5821e0dd911608bd3310712384444",
+                            "CA: 0x4b3fe0c9680700a0e31df88b4f754c5ac4ad4444",
                         }),
                       }),
                       (0, R.jsxs)("div", {
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0x096d799efba5821e0dd911608bd3310712384444",
+                            href: "https://dexscreener.com/bsc/0x4b3fe0c9680700a0e31df88b4f754c5ac4ad4444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x096d799efba5821e0dd911608bd3310712384444",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x4b3fe0c9680700a0e31df88b4f754c5ac4ad4444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "BAI ",
+                        children: "GORO ",
                       }),
                     ],
                   }),
