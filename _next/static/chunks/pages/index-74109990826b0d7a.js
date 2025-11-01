@@ -771,7 +771,7 @@
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/BAI_bsc",
+                            href: "https://t.me/Goro_MattFurie",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/BAI_bsc",
+                            href: "https://x.com/Goro_MattFurie",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
