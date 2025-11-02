@@ -742,10 +742,10 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://www.instagram.com/p/DQfYH6YkiliwET3zEzgt25SZT6bJfqfnTM54nI0/",
+                      href: "https://x.com/cz_binance/status/1984835928301719768",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
-                        src: "/aaa.jpg",
+                        src: "/aaa.png",
                       }),
                     }),
                       
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0x4b3fe0c9680700a0e31df88b4f754c5ac4ad4444"
+                              "0x05afbd9e0f1d11f5cd9b07edd07cbb496ee34444"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           },
                           children:
-                            "CA: 0x4b3fe0c9680700a0e31df88b4f754c5ac4ad4444",
+                            "CA: 0x05afbd9e0f1d11f5cd9b07edd07cbb496ee34444",
                         }),
                       }),
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/MattFurie_Goro",
+                            href: "https://t.me/AJC_CZ",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/MattFurie_Goro",
+                            href: "https://x.com/AJC_CZ",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0x4b3fe0c9680700a0e31df88b4f754c5ac4ad4444",
+                            href: "https://dexscreener.com/bsc/0x05afbd9e0f1d11f5cd9b07edd07cbb496ee34444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x4b3fe0c9680700a0e31df88b4f754c5ac4ad4444",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x05afbd9e0f1d11f5cd9b07edd07cbb496ee34444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "GORO ",
+                        children: "Ai Judge Companion ",
                       }),
                     ],
                   }),
