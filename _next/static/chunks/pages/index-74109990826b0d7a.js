@@ -742,7 +742,7 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://x.com/cz_binance/status/1984835928301719768",
+                      href: "https://x.com/0xweiqigaoshou/status/1985279498766704730",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
                         src: "/aaa.png",
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0x05afbd9e0f1d11f5cd9b07edd07cbb496ee34444"
+                              "0xf71c8693ec371b379950471a5032b0a5d3b8905c"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           },
                           children:
-                            "CA: 0x05afbd9e0f1d11f5cd9b07edd07cbb496ee34444",
+                            "CA: 0xf71c8693ec371b379950471a5032b0a5d3b8905c",
                         }),
                       }),
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/AJC_CZ",
+                            href: "https://t.me/RIPGIGGLE_bsc",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/AJC_CZ",
+                            href: "https://x.com/RIPGIGGLE_bsc",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0x05afbd9e0f1d11f5cd9b07edd07cbb496ee34444",
+                            href: "https://dexscreener.com/bsc/0xf71c8693ec371b379950471a5032b0a5d3b8905c",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x05afbd9e0f1d11f5cd9b07edd07cbb496ee34444",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xf71c8693ec371b379950471a5032b0a5d3b8905c",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
