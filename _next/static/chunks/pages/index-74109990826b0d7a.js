@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "Ai Judge Companion ",
+                        children: "RIP GIGGLE ",
                       }),
                     ],
                   }),
