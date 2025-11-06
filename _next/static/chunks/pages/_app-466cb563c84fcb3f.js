@@ -21239,7 +21239,7 @@
                         }),
                         (0, We.jsx)("a", {
                           className: "text-[#3ed44f] text-4xl",
-                          href: "https://pancakeswap.finance/swap?outputCurrency=0xb30dbfefc47cd8812bd59e0abf08a02d80a04444",
+                          href: "https://pancakeswap.finance/swap?outputCurrency=0xAf870157F5246D0896Eb09954a9A71f9360ffc61",
                           target: "_blank",
                           children: "Buy Now",
                         }),
