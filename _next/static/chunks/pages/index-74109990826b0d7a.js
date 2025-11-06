@@ -771,7 +771,7 @@
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/bitstream_elon",
+                            href: "https://t.me/bitstream_musk",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/bitstream_elon",
+                            href: "https://x.com/bitstream_musk",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
