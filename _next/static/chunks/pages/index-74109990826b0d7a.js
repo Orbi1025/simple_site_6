@@ -762,7 +762,7 @@
                                 type: "success",
                                 message: "CA Address copied!",
                               });
-                          },
+                          }, 
                           children:
                             "CA: 0x56409a627098d8cc3d96b71f6c81b0732d804444",
                         }),
