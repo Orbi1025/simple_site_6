@@ -745,7 +745,7 @@
                       href: "https://x.com/elonmusk/status/1986317399965245567",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
-                        src: "/aaa.png",
+                        src: "/aaa.jpg",
                       }),
                     }),
                       
