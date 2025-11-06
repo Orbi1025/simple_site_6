@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0x56409a627098d8cc3d96b71f6c81b0732d804444"
+                              "0xb30dbfefc47cd8812bd59e0abf08a02d80a04444"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,7 +764,7 @@
                               });
                           }, 
                           children:
-                            "CA: 0x56409a627098d8cc3d96b71f6c81b0732d804444",
+                            "CA: 0xb30dbfefc47cd8812bd59e0abf08a02d80a04444",
                         }),
                       }),
                       (0, R.jsxs)("div", {
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0x56409a627098d8cc3d96b71f6c81b0732d804444",
+                            href: "https://dexscreener.com/bsc/0xb30dbfefc47cd8812bd59e0abf08a02d80a04444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x56409a627098d8cc3d96b71f6c81b0732d804444",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xb30dbfefc47cd8812bd59e0abf08a02d80a04444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
