@@ -742,7 +742,7 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://x.com/0xweiqigaoshou/status/1985279498766704730",
+                      href: "https://x.com/elonmusk/status/1986317399965245567",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
                         src: "/aaa.png",
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0xf71c8693ec371b379950471a5032b0a5d3b8905c"
+                              "0x56409a627098d8cc3d96b71f6c81b0732d804444"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           },
                           children:
-                            "CA: 0xf71c8693ec371b379950471a5032b0a5d3b8905c",
+                            "CA: 0x56409a627098d8cc3d96b71f6c81b0732d804444",
                         }),
                       }),
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/RIPGIGGLE_bsc",
+                            href: "https://t.me/bitstream_elon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/RIPGIGGLE_bsc",
+                            href: "https://x.com/bitstream_elon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0xf71c8693ec371b379950471a5032b0a5d3b8905c",
+                            href: "https://dexscreener.com/bsc/0x56409a627098d8cc3d96b71f6c81b0732d804444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xf71c8693ec371b379950471a5032b0a5d3b8905c",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x56409a627098d8cc3d96b71f6c81b0732d804444",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "RIP GIGGLE ",
+                        children: "bitstream ",
                       }),
                     ],
                   }),
