@@ -742,10 +742,10 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://x.com/elonmusk/status/1986317399965245567",
+                      href: "https://www.youtube.com/watch?v=JabgCh3AkSE&t=1781s",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
-                        src: "/aaa.jpg",
+                        src: "/aaa.png",
                       }),
                     }),
                       
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0xb30dbfefc47cd8812bd59e0abf08a02d80a04444"
+                              "0x226249bf9be9714ee52c2d04d7dc1f430333886d"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           }, 
                           children:
-                            "CA: 0xb30dbfefc47cd8812bd59e0abf08a02d80a04444",
+                            "CA: 0x226249bf9be9714ee52c2d04d7dc1f430333886d",
                         }),
                       }),
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/bitstream_musk",
+                            href: "https://t.me/NUTCOIN_bsc",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/bitstream_musk",
+                            href: "https://x.com/NUTCOIN_bsc",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0xb30dbfefc47cd8812bd59e0abf08a02d80a04444",
+                            href: "https://dexscreener.com/bsc/0x226249bf9be9714ee52c2d04d7dc1f430333886d",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xb30dbfefc47cd8812bd59e0abf08a02d80a04444",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x226249bf9be9714ee52c2d04d7dc1f430333886d",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
