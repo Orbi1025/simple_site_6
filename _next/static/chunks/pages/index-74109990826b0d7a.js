@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0xb52506b41c359f67b34b91ea3da4af7dd4063618",
+                            href: "https://dexscreener.com/ethereum/0xb52506b41c359f67b34b91ea3da4af7dd4063618",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xb52506b41c359f67b34b91ea3da4af7dd4063618",
+                            href: "https://www.dextools.io/app/en/eth/pair-explorer/0xb52506b41c359f67b34b91ea3da4af7dd4063618",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
