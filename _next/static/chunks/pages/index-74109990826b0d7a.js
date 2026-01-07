@@ -742,7 +742,7 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://www.youtube.com/watch?v=JabgCh3AkSE&t=1781s",
+                      href: "https://www.startribune.com/ice-raids-minnesota/601546426?taid=695e8cd4c49fe600014258ae&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
                         src: "/aaa.png",
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0x226249bf9be9714ee52c2d04d7dc1f430333886d"
+                              "0xb52506b41c359f67b34b91ea3da4af7dd4063618"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           }, 
                           children:
-                            "CA: 0x226249bf9be9714ee52c2d04d7dc1f430333886d",
+                            "CA: 0xb52506b41c359f67b34b91ea3da4af7dd4063618",
                         }),
                       }),
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/NUTCOIN_bsc",
+                            href: "https://t.me/JusticeforRenee",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/NUTCOIN_bsc",
+                            href: "https://x.com/JusticeforRenee",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/bsc/0x226249bf9be9714ee52c2d04d7dc1f430333886d",
+                            href: "https://dexscreener.com/bsc/0xb52506b41c359f67b34b91ea3da4af7dd4063618",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x226249bf9be9714ee52c2d04d7dc1f430333886d",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xb52506b41c359f67b34b91ea3da4af7dd4063618",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
