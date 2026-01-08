@@ -766,7 +766,7 @@
                           children:
                             "CA: 0xcomingsoon",
                         }),
-                      }),
+                      }), 
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
