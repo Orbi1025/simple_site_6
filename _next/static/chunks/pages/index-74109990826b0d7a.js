@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "0xb52506b41c359f67b34b91ea3da4af7dd4063618"
+                              "0xcomingsoon"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,14 +764,14 @@
                               });
                           }, 
                           children:
-                            "CA: 0xb52506b41c359f67b34b91ea3da4af7dd4063618",
+                            "CA: 0xcomingsoon",
                         }),
                       }),
                       (0, R.jsxs)("div", {
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/JusticeforRenee",
+                            href: "https://t.me/Coin89_eth",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/JusticeforRenee",
+                            href: "https://x.com/Coin89_eth",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/ethereum/0xb52506b41c359f67b34b91ea3da4af7dd4063618",
+                            href: "https://dexscreener.com/ethereum/0xcomingsoon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/eth/pair-explorer/0xb52506b41c359f67b34b91ea3da4af7dd4063618",
+                            href: "https://www.dextools.io/app/en/eth/pair-explorer/0xcomingsoon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "Renée ",
+                        children: "89 ",
                       }),
                     ],
                   }),
