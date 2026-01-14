@@ -771,7 +771,7 @@
                         className: "flex gap-4",
                         children: [
                           (0, R.jsx)("a", {
-                            href: "https://t.me/Coin89_eth",
+                            href: "https://t.me/Claude_Organelle",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -788,7 +788,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://x.com/Coin89_eth",
+                            href: "https://x.com/ClaudeOrganelle",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "89 ",
+                        children: "Samara",
                       }),
                     ],
                   }),
